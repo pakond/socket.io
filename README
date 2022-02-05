@@ -1,0 +1,5 @@
+START SERVER
+forever start index.js
+
+STOP SERVER
+forever stop index.js
