@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 const frontVersion = '0.0.2';
 const fs = require( 'fs' );
 const express = require("express");
